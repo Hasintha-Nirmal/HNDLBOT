@@ -3,7 +3,7 @@ class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = 'GROUP'
-    ST_BN1_URL = 'https://shrinkme.ink/hndlgp'
+    ST_BN1_URL = 'https://t.me/hndlgp'
     ST_BN2_NAME = 'OWNER'
     ST_BN2_URL = 'https://t.me/EasternDevelopersbot'
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
